@@ -1,9 +1,7 @@
-# JUnit-maven-example
+# This is JUnit-maven-example
 This is sample JUnit + maven  project in Java. It shows how to upload test result file on JIRA instance using [QMetry for JIRA - Test Management](https://marketplace.atlassian.com/plugins/com.infostretch.QmetryTestManager/cloud/overview).  
 
-
 ### Run test
-Santhosh
 Newline
 please update these details in `pom.xml` file. 
 
